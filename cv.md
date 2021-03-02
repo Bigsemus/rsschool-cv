@@ -28,4 +28,4 @@
    - In 2018 I completed the course "English Time" English school
    - 2019 "IT Education Academy - Html/CSS/JavaScript"
    - 2020 the course "IT Step - web project development"
-1. English (B1) according to EPAM test from 18.08.2020.
+1. English (B1) according to EPAM test from 18.08.2020 .
