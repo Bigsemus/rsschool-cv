@@ -1,1 +1,1 @@
-# rsschool-cv
+# rsschool-cv https://bigsemus.github.io/rsschool-cv/cv
